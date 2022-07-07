@@ -1,5 +1,8 @@
 # GorgosaurusDAO
 
+## Progress 
+- 7/7: I have confirmed my registration to the auction as paddle number 1! ![email confirmation](https://imgur.com/a/tnaiyOo)
+
 ## Contacts
 - Discord server: [https://discord.gg/D96EJJTj4m](https://discord.gg/D96EJJTj4m)
 - email: gorgosaurusdao@gmail.com
