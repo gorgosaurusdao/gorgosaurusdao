@@ -1,11 +1,11 @@
 # TODO
 
 ## High Pri
-[] Get money
-[] Figure out DAO protocol
+- [] Get money
+- [] Figure out DAO protocol
 
 ## Medium Pri
-[] Logo
+- [] Logo
 
 ## Low Pri
-[] Secure a real website?
+- [] Secure a real website?
