@@ -12,5 +12,8 @@ I'm Brian, I want to buy a dinosaur and then create an event space in New York t
 ## Why a DAO?
 Seems like the right way to distribute stewardship across supporters.
 
+### How DAO?
+We are going to use [nation.io](nation.io), which is built on top of Solana, and where we have technical experts who can help us navigate it.
+
 ## Progress 
 - 7/7: I have confirmed my registration to the auction as paddle number 1! ![Imgur](https://imgur.com/LJMANY0.jpg)
