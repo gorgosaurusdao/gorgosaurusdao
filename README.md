@@ -1,7 +1,7 @@
 # GorgosaurusDAO
 
 ## Progress 
-- 7/7: I have confirmed my registration to the auction as paddle number 1! ![Imgur](https://imgur.com/LJMANY0)
+- 7/7: I have confirmed my registration to the auction as paddle number 1! ![Imgur](https://imgur.com/LJMANY0.jpg)
 
 ## Contacts
 - Discord server: [https://discord.gg/D96EJJTj4m](https://discord.gg/D96EJJTj4m)
