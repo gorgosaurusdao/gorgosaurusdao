@@ -8,6 +8,8 @@ I'm Brian, I want to buy a dinosaur and then create an event space in New York t
 - email: gorgosaurusdao@gmail.com
 - twitter: [@GorgosaurusD](https://twitter.com/GorgosaurusD)
 - youtube channel: [youtube](https://www.youtube.com/channel/UCwOwUEhLtnzo_7kgmd-Ok9A/featured)
+- [github](https://github.com/gorgosaurusdao/)
+- [google doc](https://docs.google.com/document/d/1PHlCvxYRswS0tH2aIV9C6IARiFikkoXH1ZLOB-ayl_k/edit?usp=sharing)
 
 ## Why a DAO?
 Seems like the right way to distribute stewardship across supporters.
